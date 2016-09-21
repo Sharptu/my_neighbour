@@ -1,0 +1,27 @@
+h1{
+  color: black;
+}
+
+h2{
+  color: green;
+}
+p{
+  color: blue;
+  font-size: 25px;
+}
+
+ul{
+  color: red;
+  font-size: 25px
+}
+.header {
+	width: 100%;
+	height: 300px;
+	background-image: url("http://www.clipartkid.com/images/352/thumbs-up-i-get-it-6w0LkE-clipart.png"); 
+	background-position: 50% 35% 
+}
+.content {
+	margin-left: 50%;
+	margin-top: 100px;
+}
+.red{color: red;}
